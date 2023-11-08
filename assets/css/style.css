@@ -1,0 +1,59 @@
+.owl-carousel {
+    margin-bottom: 10px;
+}
+
+.owl-carousel .owl-item img{
+    height: 150px;
+}
+
+.rp-post-wrapper {
+    background: #fff;
+    padding: 10px;
+    transition: all .4s ease-in-out;
+}
+
+.rp-post-wrapper:hover {
+    box-shadow: 0 0 8px 0 #dfdddd;
+}
+
+.rp-post-wrapper p {
+    margin: 10px 0;
+    line-height: 2;
+}
+
+.rp-owl-carousel {
+    background-color: #fff;
+    margin: 20px 0;
+}
+
+.rp-owl-carousel .owl-item {
+    padding: 3px;
+}
+
+.related-post-wrapper {
+    background: #fff;
+    padding: 20px;
+}
+
+.related-post-wrapper a li {
+    transition: all .2s ease-in-out;
+}
+
+.related-post-wrapper a:hover li {
+    background-color: #fbfafa;
+    padding-right: 5px;
+}
+
+li.related-post-list {
+    margin-bottom: 14px;
+    display: block;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+li.related-post-list img {
+    width: 50px !important;
+    height: 50px !important;
+    margin-left: 12px;
+    border-radius: 5px;
+}
